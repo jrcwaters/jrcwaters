@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrcwaters
-- 👀 I’m interested in Swift App Development, M365 and PnP Development
-- 🌱 I’m currently learning ... PnP/M365 Development
+- 👀 I’m interested in Cloud Engineering, Scripting and IaaS.
+- 🌱 I’m currently learning ... IaaS on Azure, Dynamics 365 Engineering.
 - 📫 How to reach me ... 
   I can be reached on twitter: @jrcwaters 
 
